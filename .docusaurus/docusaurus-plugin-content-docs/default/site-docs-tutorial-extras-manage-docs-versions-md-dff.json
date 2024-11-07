@@ -5,7 +5,7 @@
   "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/manage-docs-versions",
-  "permalink": "/webapp/docs/tutorial-extras/manage-docs-versions",
+  "permalink": "/my-website/docs/tutorial-extras/manage-docs-versions",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/manage-docs-versions.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tutorial - Extras",
-    "permalink": "/webapp/docs/category/tutorial---extras"
+    "permalink": "/my-website/docs/category/tutorial---extras"
   },
   "next": {
     "title": "Translate your site",
-    "permalink": "/webapp/docs/tutorial-extras/translate-your-site"
+    "permalink": "/my-website/docs/tutorial-extras/translate-your-site"
   }
 }

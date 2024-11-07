@@ -20,7 +20,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'loongest', // Usually your GitHub org/user name.
   projectName: 'my-website', // Usually your repo name.
-  deploymentBranch: 'main',
+  deploymentBranch: 'dev',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

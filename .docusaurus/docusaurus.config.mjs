@@ -8,10 +8,10 @@ export default {
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
   "url": "https://loongest.github.io",
-  "baseUrl": "/webapp/",
+  "baseUrl": "/my-website/",
   "organizationName": "loongest",
-  "projectName": "webapp",
-  "deploymentBranch": "main",
+  "projectName": "my-website",
+  "deploymentBranch": "dev",
   "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -24,7 +24,7 @@ export default {
     "localeConfigs": {}
   },
   "customFields": {
-    "teamEmail": "example@gmail.com"
+    "email": "example@gmail.com"
   },
   "presets": [
     [

@@ -1,5 +1,5 @@
 {
-  "permalink": "/webapp/blog/mdx-blog-post",
+  "permalink": "/my-website/blog/mdx-blog-post",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
   "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
   "title": "MDX Blog Post",
@@ -9,7 +9,7 @@
     {
       "inline": false,
       "label": "Docusaurus",
-      "permalink": "/webapp/blog/tags/docusaurus",
+      "permalink": "/my-website/blog/tags/docusaurus",
       "description": "Docusaurus tag description"
     }
   ],
@@ -21,7 +21,7 @@
       "title": "Docusaurus maintainer",
       "url": "https://sebastienlorber.com",
       "page": {
-        "permalink": "/webapp/blog/authors/all-sebastien-lorber-articles"
+        "permalink": "/my-website/blog/authors/all-sebastien-lorber-articles"
       },
       "socials": {
         "x": "https://x.com/sebastienlorber",
@@ -46,10 +46,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "Welcome",
-    "permalink": "/webapp/blog/welcome"
+    "permalink": "/my-website/blog/welcome"
   },
   "nextItem": {
     "title": "Long Blog Post",
-    "permalink": "/webapp/blog/long-blog-post"
+    "permalink": "/my-website/blog/long-blog-post"
   }
 }
